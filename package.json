@@ -1,14 +1,14 @@
 {
-  "name": "nhang",
+  "name": "nhanelon",
   "version": "0.2.0",
-  "description": "Hang detector for Node.js",
+  "description": "nhanelon detector for Node.js",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abikvl/nhang.git"
+    "url": "git+https://github.com/steveelon9/nhanelon.git"
   },
   "keywords": [
     "node",
@@ -18,9 +18,9 @@
   "author": "InteliWeb",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/abikvl/nhang/issues"
+    "url": "https://github.com/steveelon9/nhanelon/issues"
   },
-  "homepage": "https://github.com/abikvl/nhang#readme",
+  "homepage": "https://github.com/steveelon9/nhanelon#readme",
   "devDependencies": {
     "jest": "^28.1.0"
   }
