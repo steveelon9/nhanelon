@@ -1,6 +1,6 @@
 {
   "name": "nhanelon",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "nhanelon detector for Node.js",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/steveelon9/nhanelon.git"
+    "url": "https://github.com/steveelon9/nhanelon.git"
   },
   "keywords": [
     "node",
